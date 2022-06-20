@@ -12,6 +12,7 @@ public class Main {
             array2[i] = counter;
             counter *= 2;
 
+            System.out.println();
             System.out.println(array2[i]);
 
         }
